@@ -63,7 +63,9 @@ When creating the legend, I simply set the color code to match the markers on th
 Without these adjustments, the webpage would have no source on which to base the style of the legend. As a result, prior to these adjustments, the legend failed to appear when the webpage loaded.
 
 # Instructions
-Simply clone this Git repository to your local machine, then open the HTML file in Google Chrome. Click on map markers to view the popups.
+Simply clone this Git repository to your local machine, then open the HTML file in Google Chrome. The HTML file will reference the code contained in the static folder.
+
+Click on map markers to view the popups.
 
 # Sources
 Assignment created by edX Data Visualization and Analytics Bootcamp at The Ohio State University.
