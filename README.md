@@ -35,6 +35,7 @@ For example, when determining the size of each marker, I was asked to use magnit
 As for the popups that appear when markers are selected by a user's mouse, I used DOM manipulation to set an HTML layout for each popup, then bound each popup to the markers in the GeoJSON layer.
 
 When creating the legend, I simply set the color code to match the markers on the map, with colors becoming darker to signify where Earth is deeper. However, I also had to adjust the CSS code to place the legend, as is shown below:
+
       /* Update to include formatting for legend */
       .legend {
         position: absolute;
