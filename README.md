@@ -8,6 +8,8 @@ For this project, I was asked to map data from the United States Geological Surv
 
 I selected the JSON object that contained earthquake data over the course of a month, as I decided it would provide my map with the greatest variety of earthquake data and perhaps be more reliable by illustrating longer-term trends.
 
+The dataset can be found at the following link: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson.
+
 # Features
 
 The features of this map are quite simple, including the use of a tile layer from www.openstreetmap.com (https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png) and the use of earthquake data to adjust the appearance of markers on the map.
